@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.leaders {
+  background: linear-gradient(0deg, #64748b90, #64748b90),
+    url(../src/assets/imgs/construction-background.jpg) top center
+      no-repeat;
+  background-size: cover;
+}
